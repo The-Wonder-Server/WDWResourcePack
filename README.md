@@ -6,4 +6,4 @@ Click below to go through to the releases. Download the version you're running o
 ## Still having issues?
 Reach out to us on Discord
 
-https://discord.gg/palace
+https://discord.gg/CEXFs9hBV9
