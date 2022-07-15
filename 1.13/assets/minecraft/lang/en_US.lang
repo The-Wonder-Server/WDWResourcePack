@@ -31,7 +31,7 @@ menu.options=Options...
 menu.quit=Quit Game
 menu.returnToMenu=Save and Quit to Title
 menu.disconnect=Disconnect
-menu.returnToGame=Back to Game
+menu.returnToGame=Back to The the Happiest Place in Minecraft
 menu.switchingLevel=Switching worlds
 menu.generatingLevel=Generating world
 menu.loadingLevel=Loading world
@@ -39,7 +39,7 @@ menu.generatingTerrain=Building terrain
 menu.convertingLevel=Converting world
 menu.simulating=Simulating the world for a bit
 menu.respawning=Respawning
-menu.shareToLan=Open to LAN
+menu.shareToLan=thewonderserver.com
 
 selectWorld.title=Select World
 selectWorld.empty=empty
