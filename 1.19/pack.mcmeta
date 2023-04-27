@@ -1,9 +1,9 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": "§aThe Wonder Server §bWDW RP §f°o°\n§r§7Version 1.1.1 §e(Minecraft 1.19)"
-  },
-  "meta": {
-    "game_version": "1.19.0"
-  }
+    "pack": {
+        "pack_format": 12,
+        "description": "\u00a7aThe Wonder Server \u00a7bWDW RP \u00a7f\u00b0o\u00b0\n\u00a7r\u00a77Version 1.1.2 \u00a7e(Minecraft 1.19)"
+    },
+    "meta": {
+        "game_version": "1.19.0"
+    }
 }

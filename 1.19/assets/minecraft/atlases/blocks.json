@@ -1,0 +1,896 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sorcerermb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/princessmb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hauntedmansionmb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/bighero6mb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/jackolantern"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/santahat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/christmasmb"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/nook_phone_inner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/phone_exterior_flat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sword1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sword2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/multi-lights-1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcot_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/kiosk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/spruce_leaves-wreath"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/32texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/tot1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/getrash1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/getrash2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rtv_trap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pianocover"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pianokeys"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/lightningeyes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/95lightning"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rusteze"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rustezetext"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/lightningsmile"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/red_star"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mickeypumpkin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mickeypumpkinwreath"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/candycauldron"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mickeycandycauldron"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ccandycauldron"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mickeyccandycauldron"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/palace_flowers"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pixarweek"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/letters"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/office"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/postbox_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/post"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/spacemountainlight"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/white-lights-1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ship1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ship2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/launchpod"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ship3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/seasonal-leaves"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stripped_birch_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stripped_dark_oak_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cartsides"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/carttitles"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/food"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/stripped_oak_log"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/akback1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/akback2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/akfront1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/akfront2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/backpack_mickey"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/backpack_frozen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/backpack_jack"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/black_concrete"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pink_terracotta"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/backpack_tinkerbelle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/bell_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/billy_wool"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/dhsback1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/dhsback2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/dhsfront1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/dhsfront2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotfront2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotfront1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotback2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotback1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hotchocolate"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mkfront2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mkfront1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mkback2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mkback1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mnsshplogo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mvmcppin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/porghead"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/porg_body"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/foots"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/lightstick_out"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pooch_plush"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/remy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/goofy1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/gecoke"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/gesprite"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/typhoon2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/typhoon1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/walt"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/balloonmotifs"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:particle/flame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/scaffolding_top"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/flag"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/star"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/frozen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/partyhat2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/bday"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/beetlejuice"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cheetah_print"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cinderellaearstexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotearstexture2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/epcotearfinaltexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rainbow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/evecustomtexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/purple_sparkle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/palette"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/flannel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/goofy2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/goofy3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/h20_texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hamilton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/2_days_-_avhhp_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hauntedmansion"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/incredibles_logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ohanaears"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:cusotm/ohanaears"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/luxo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/marvel1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/marvel2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/marvel3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/superheroes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mickey_mouse"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/minnie_mouse"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/orangebird"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/paintbrushear"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/palacelogo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/baseballcap"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/roses"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/orange_wool"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:textures/r2d2_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/pride"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rosegoldtexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/moon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/tangledsuntexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/tiger_print"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/clouds_cartoon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wings_out"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/zebra_print"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/carpetride"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wdwmsystem"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/bus1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/bus2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/buzzlogo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/smile_cloud_car"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/star_cloud_car"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/dumboeyes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rideplac"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/imaginationsymbol"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/gotgmbgraphic"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/barrel_bottom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/barrel_side"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/jcboattop"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/egamerskin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rrr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/mmrrgoofy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/peterpan1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rotr7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rotrsafety"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rrc"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/rrc1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/speaker"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cautionboat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/wool_colored_black"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blocks/wool_colored_white"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/seasgreen"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/seas"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/trolleylogo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/trolleylogo2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wdwrrtext"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wdwrrtext2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/lillybellelogo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wdwrr"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/autumnbutterfly1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/scarves"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/scarves_end"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/butterflywingsdwarf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/butterflywingslunar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/butterflywingsmonarch"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/featherandbelly"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/noseandflippers"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/snowflake2.0"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/wingswinter"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sparkler1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sparkler2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/sparkler3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/garden_hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/hibiscus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/box1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/box2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/texture3"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/texture4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/texture5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/6texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/7texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/8texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/9texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/16texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/whitetexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/redtexture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/26texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/27texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/28texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/30texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/31texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/jackolantern1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/starlight"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/yoshieyes"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/fof"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/white_misi"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi_fence"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi_fence2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi2"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi_mid"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi4"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/misi5"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ptn/head"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ptn/monsters_grill"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/ptn/logo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:custom/cloud"
+        }
+    ]
+}
